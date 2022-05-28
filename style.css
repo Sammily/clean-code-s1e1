@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.header .more-inf {
+.header .header__details {
   font-family: fantasy, cursive;
 }
 
